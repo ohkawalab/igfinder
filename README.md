@@ -1,0 +1,2 @@
+# igfinder
+immunoglobulin sequences extractor
